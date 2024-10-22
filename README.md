@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning ...
-- 
+ 
 #I'm joklove2555! 👋
 
 <hr style="border: 2px solid black;" />
@@ -48,3 +48,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+<hr style="border: 2px solid black;" />
+
+### CI/CD Tools I Am Learning:
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
