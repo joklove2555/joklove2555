@@ -2,7 +2,23 @@
 
 - 🌱 I’m currently learning ...
 - 
-#I'm [joklove2555]! 👋
+#I'm joklove2555! 👋
+
+<hr style="border: 2px solid black;" />
+
+### Operating Systems I Use:
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+<hr style="border: 2px solid black;" />
+
+### Containerization & Orchestration Tools I Use:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <hr style="border: 2px solid black;" />
 
