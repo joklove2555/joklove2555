@@ -55,5 +55,5 @@
 ### CI/CD Tools I Am Learning:
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-orange?logo=argo&logoColor=white)
+![Argo](https://img.shields.io/badge/Argo-D24939?style=for-the-badge&logo=Argo&logoColor=white)
 
