@@ -59,7 +59,6 @@
 
 ### Monitoring Tools I Am Learning:
 
-![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-Alerting%20%26%20Metrics-orange?logo=prometheus)
-
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics%20%26%20Alerting-orange?style=for-the-badge&logo=prometheus&logoColor=white)
 
