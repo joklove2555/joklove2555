@@ -33,6 +33,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 
 <hr style="border: 2px solid black;" />
@@ -48,12 +50,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-UI_Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Framework-FFB400?style=for-the-badge&logo=python&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-Windows_Desktop_App-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 
 <hr style="border: 2px solid black;" />
 
 ### CI/CD Tools I Am Learning:
-
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-D24939?style=for-the-badge&logo=Argo&logoColor=white)
 
