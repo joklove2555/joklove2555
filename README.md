@@ -61,4 +61,5 @@
 
 ![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics%20%26%20Alerting-orange?style=for-the-badge&logo=prometheus&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-System%20Metrics-lightgrey?style=for-the-badge&logo=linux&logoColor=black)
 
