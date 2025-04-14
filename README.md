@@ -57,3 +57,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-D24939?style=for-the-badge&logo=Argo&logoColor=white)
 
+### Monitoring Tools I Am Learning:
+
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-Alerting%20%26%20Metrics-orange?logo=prometheus)
+
+
