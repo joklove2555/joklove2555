@@ -8,8 +8,8 @@
 
 ### Operating Systems I Use:
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) <br/>
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) <br/>
+![Windows](https://img.shields.io/badge/Windows-1a8cff?style=for-the-badge&logo=windows&logoColor=white) <br/>
+![macOS](https://img.shields.io/badge/macOS-1a8cff?style=for-the-badge&logo=apple&logoColor=white) <br/>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-1a8cff?style=for-the-badge&logo=ubuntu&logoColor=white) <br/>
 
 
