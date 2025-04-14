@@ -24,15 +24,15 @@
 
 ### Languages I Work With:
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Excel_Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
@@ -53,6 +53,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-UI_Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Framework-FFB400?style=for-the-badge&logo=python&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-Windows_Desktop_App-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-JS_Library-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-UI_Framework-F06C00?style=for-the-badge&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-React_Framework-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Utility_First_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 
@@ -68,4 +72,10 @@
 ![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics%20%26%20Alerting-orange?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Node Exporter](https://img.shields.io/badge/Node_Exporter-System%20Metrics-lightgrey?style=for-the-badge&logo=linux&logoColor=black)
+
+
+### 🌐 Cloud & Hosting
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-Hosting-0088CC?style=for-the-badge&logo=linux&logoColor=white)
 
