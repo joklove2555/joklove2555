@@ -1,82 +1,123 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanongsak
 
-- 🌱 I’m currently learning ...
- 
-#I'm Tanongsak! 👋
+🚀 DevOps Engineer | Kubernetes | Cloud & Automation
+💻 Building real-world systems with CI/CD, Kubernetes, and monitoring
 
-<hr style="border: 2px solid black;" />
+---
 
-### Operating Systems I Use:
+## 🧠 About Me
 
-![Windows](https://img.shields.io/badge/Windows-1a8cff?style=for-the-badge&logo=windows&logoColor=white) <br/>
-![macOS](https://img.shields.io/badge/macOS-1a8cff?style=for-the-badge&logo=apple&logoColor=white) <br/>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1a8cff?style=for-the-badge&logo=ubuntu&logoColor=white) <br/>
+* ⚙️ Focused on **DevOps, Infrastructure, and Automation**
+* ☸️ Managing **multi-node Kubernetes (k3s) clusters**
+* ☁️ Deploying systems on **AWS & VPS environments**
+* 🔄 Building **CI/CD pipelines** with Jenkins, GitLab, and ArgoCD (GitOps)
+* 📊 Working with **Monitoring & Alerting systems (Prometheus + Grafana)**
+* 🌐 Working with **Networking, Reverse Proxy, and Cloudflare**
+* 🖥 Running homelab infrastructure with **Proxmox VE**
+* 🐍 Using Python & VBA for automation and internal tools
 
+---
 
-<hr style="border: 2px solid black;" />
+## 🛠 Core Skills
 
-### Containerization & Orchestration Tools I Use:
+### ☸️ Kubernetes / Cloud
 
-![Docker](https://img.shields.io/badge/Docker-1a8cff?style=for-the-badge&logo=docker&logoColor=white) <br/>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a8cff?style=for-the-badge&logo=kubernetes&logoColor=white) <br/>
+* Kubernetes (k3s, multi-node)
+* ArgoCD (GitOps deployment)
+* Longhorn (distributed storage)
+* AWS / VPS deployment
 
-<hr style="border: 2px solid black;" />
+---
 
-### Languages I Work With:
+### 🔄 CI/CD & Version Control
 
-![C#](https://img.shields.io/badge/C%23-Programming-1a8cff?style=for-the-badge&logo=c-sharp&logoColor=white) <br/>
-![Python](https://img.shields.io/badge/Python-Programming-1a8cff?style=for-the-badge&logo=python&logoColor=white) <br/>
-![Go](https://img.shields.io/badge/Go-Programming-1a8cff?style=for-the-badge&logo=go&logoColor=white) <br/>
-![MySQL](https://img.shields.io/badge/MySQL-Database-1a8cff?style=for-the-badge&logo=mysql&logoColor=white) <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-Language-1a8cff?style=for-the-badge&logo=typescript&logoColor=white) <br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-Language-1a8cff?style=for-the-badge&logo=javascript&logoColor=black) <br/>
-![HTML5](https://img.shields.io/badge/HTML5-Markup-1a8cff?style=for-the-badge&logo=html5&logoColor=white) <br/>
-![CSS3](https://img.shields.io/badge/CSS3-Style-1a8cff?style=for-the-badge&logo=css3&logoColor=white) <br/>
-![VBA](https://img.shields.io/badge/VBA-Excel_Automation-1a8cff?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br/>
-![Dart](https://img.shields.io/badge/Dart-Language-1a8cff?style=for-the-badge&logo=dart&logoColor=white) <br/>
+* Jenkins (Pipeline, Kaniko, Kubernetes agent)
+* GitLab CI/CD
+* GitHub
+* Automated build → push → deploy workflows
 
+---
 
+### 📊 Monitoring
 
-<hr style="border: 2px solid black;" />
+* Prometheus
+* Grafana
+* Node Exporter
 
-### Frameworks & Tools:
+---
 
-![GORM](https://img.shields.io/badge/GORM-1a8cff?style=for-the-badge&logo=go&logoColor=white) <br/>
-![Gin](https://img.shields.io/badge/Gin-1a8cff?style=for-the-badge&logo=go&logoColor=white) <br/>
-![JWT](https://img.shields.io/badge/JWT-1a8cff?style=for-the-badge&logo=json-web-tokens&logoColor=white) <br/>
-![Bcrypt](https://img.shields.io/badge/Bcrypt-1a8cff?style=for-the-badge&logoColor=white) <br/>
-![Express](https://img.shields.io/badge/Express-1a8cff?style=for-the-badge&logo=express&logoColor=white) <br/>
-![Prisma](https://img.shields.io/badge/Prisma-1a8cff?style=for-the-badge&logo=prisma&logoColor=white) <br/>
-![MySQL](https://img.shields.io/badge/MySQL-1a8cff?style=for-the-badge&logo=mysql&logoColor=white) <br/>
-![SQLite](https://img.shields.io/badge/SQLite-1a8cff?style=for-the-badge&logo=sqlite&logoColor=white) <br/>
-![Next.js](https://img.shields.io/badge/Next.js-1a8cff?style=for-the-badge&logo=next.js&logoColor=white) <br/>
-![Flutter](https://img.shields.io/badge/Flutter-UI_Framework-1a8cff?style=for-the-badge&logo=flutter&logoColor=white) <br/>
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Framework-1a8cff?style=for-the-badge&logo=python&logoColor=white) <br/>
-![WPF](https://img.shields.io/badge/WPF-Windows_Desktop_App-1a8cff?style=for-the-badge&logo=dotnet&logoColor=white) <br/>
-![React](https://img.shields.io/badge/React-JS_Library-1a8cff?style=for-the-badge&logo=react&logoColor=black) <br/>
-![Svelte](https://img.shields.io/badge/Svelte-UI_Framework-1a8cff?style=for-the-badge&logo=svelte&logoColor=white) <br/>
-![Next.js](https://img.shields.io/badge/Next.js-React_Framework-1a8cff?style=for-the-badge&logo=next.js&logoColor=white) <br/>
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Utility_First_CSS-1a8cff?style=for-the-badge&logo=tailwindcss&logoColor=white) <br/>
+### 🖥 Virtualization
 
+* Proxmox VE
+* VM / LXC
+* Ubuntu Server
 
+---
 
-<hr style="border: 2px solid black;" />
+### 🌐 Networking
 
-### CI/CD Tools I Am Learning:
-![Git](https://img.shields.io/badge/Git-Version_Control-1a8cff?style=for-the-badge&logo=git&logoColor=white) <br/>
-![Jenkins](https://img.shields.io/badge/Jenkins-1a8cff?style=for-the-badge&logo=jenkins&logoColor=white) <br/>
-![Argo](https://img.shields.io/badge/Argo-1a8cff?style=for-the-badge&logo=Argo&logoColor=white) <br/>
+* NGINX / Traefik
+* DNS / HTTPS / Reverse Proxy
+* Cloudflare (Tunnel, R2)
+* Basic load balancing
 
-### Monitoring Tools I Am Learning:
+---
 
-![Grafana](https://img.shields.io/badge/Grafana-Monitoring-1a8cff?style=for-the-badge&logo=grafana&logoColor=white) <br/>
-![Prometheus](https://img.shields.io/badge/Prometheus-Metrics%20%26%20Alerting-1a8cff?style=for-the-badge&logo=prometheus&logoColor=white) <br/>
-![Node Exporter](https://img.shields.io/badge/Node_Exporter-System%20Metrics-1a8cff?style=for-the-badge&logo=linux&logoColor=black) <br/>
+### 🐳 Container
 
+* Docker
 
-### 🌐 Cloud & Hosting & Networking
+---
 
-![AWS](https://img.shields.io/badge/AWS-Cloud_Computing-1a8cff?style=for-the-badge&logo=amazonaws&logoColor=white) <br/>
-![VPS](https://img.shields.io/badge/VPS-Hosting-1a8cff?style=for-the-badge&logo=linux&logoColor=white) <br/>
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Content_Delivery_Network-1a8cff?style=for-the-badge&logo=cloudflare&logoColor=white) <br/>
+### 🧠 Automation
 
+* Python
+* Excel VBA
+* Shell scripting
+
+---
+
+## 🚀 What I Build
+
+* ☸️ Kubernetes clusters (multi-node)
+* 🔁 GitOps workflows with ArgoCD
+* ⚙️ CI/CD pipelines
+* 📊 Monitoring systems
+* 🌐 Secure routing with Cloudflare
+* 🧮 Internal automation tools
+
+---
+
+## 🧱 Example Architecture
+
+Cloudflare
+↓
+Ingress
+↓
+Kubernetes (k3s)
+↓
+Applications
+↓
+PostgreSQL / Storage
+↓
+Monitoring (Prometheus + Grafana)
+
+---
+
+## 📌 Goals
+
+* Improve Kubernetes & DevOps skills
+* Build production-ready systems
+* Move towards Platform Engineer / SRE role
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/่joklove2555
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that are actually used in real operations.
